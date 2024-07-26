@@ -1,5 +1,5 @@
 
-Bate Music Player Website, we offer an immersive music experience tailored to both artists and listeners. Our platform empowers users to upload their own music, discover new sounds, create personalized playlists, and seamlessly download their favorite tracks for offline enjoyment.
+Qi gnet Music Player Website, we offer an immersive music experience tailored to both artists and listeners. Our platform empowers users to upload their own music, discover new sounds, create personalized playlists, and seamlessly download their favorite tracks for offline enjoyment.
 
 Key features include:
 
